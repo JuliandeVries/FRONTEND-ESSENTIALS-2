@@ -21,3 +21,7 @@ for(i = 0; i < topFilms.length; i++){
 function kiesFilm(){
 
 }
+
+
+prompt("Wat is je favoriete film?"); 
+

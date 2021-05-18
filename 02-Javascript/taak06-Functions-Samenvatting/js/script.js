@@ -12,3 +12,11 @@ function showRandomNumber1(){
 }
 
 getal1 = showRandomNumber1();
+
+function geefAntwoord1(){
+
+}
+
+function geefAntwoord2(){
+    
+}
